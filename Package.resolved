@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SweeterSwift",
+        "repositoryURL": "https://github.com/access-2-arabia/SweeterSwift",
+        "state": {
+          "branch": null,
+          "revision": "6258762c24085b7edd329933655213a24c30fc65",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
